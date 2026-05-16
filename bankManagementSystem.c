@@ -1,4 +1,4 @@
-// PROJECT: Bank Management System; Programmer: Rachit Kumar
+// PROJECT: Bank Management System; Programmer:ROHIT CHANDA
 #include <stdio.h>
 #include <string.h>
 #include <time.h>
